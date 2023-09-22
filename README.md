@@ -7,7 +7,7 @@ Proyek ini merupakan implementasi klasifikasi gambar sederhana yang bertujuan un
 
 ## Dataset
 
-Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar tangan yang menggambarkan batu, kertas, dan gunting. Dataset ini dapat diakses melalui [Link Dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
+Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar tangan yang menggambarkan batu, kertas, dan gunting. Dataset ini dapat didownload melalui [Link Dataset](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
 
 ## Cara Penggunaan
 
